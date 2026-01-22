@@ -8,18 +8,18 @@
 <p>
   Helo guys, I'm Gabriel Navarro Silva! I´m Software Developer from Brazil.
 
-  - 🌱 I have a degree in Systems Analysis and Development and I am currently pursuing a second degree in Computer Science.
+  -  I have a degree in Systems Analysis and Development and I am currently pursuing a second degree in Computer Science.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Web Development.
+  -  I am looking for my first job opportunity. My dream is to one day work with AI and Web Development.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary> More about me</summary>
 
-  - 💬 I am 24 years old and live in Brazil. My English is advanced and I have a basic knowledge of Spanish. I graduated in 2025 from FIAP University and in recent years I have focused on Full Stack development..
+  -  I am 24 years old and live in Brazil. My English is advanced and I have a basic knowledge of Spanish. I graduated in 2025 from FIAP University and in recent years I have focused on Full Stack development..
 
-  - ⚡ I enjoy spending time keeping up-to-date on the tech world, I like watching movies/series, and I love playing video games too.
+  -  I enjoy spending time keeping up-to-date on the tech world, I like watching movies/series, and I love playing video games too.
 </details>
 
 <!--Pac-Man-->
@@ -56,7 +56,7 @@
   <img src="https://64.media.tumblr.com/a6f6ef23c6e3be72f81697a09baf94c8/0b50ae687fc6cd5a-3a/s1280x1920/f49bc32d8bc66e3e48a6a765c7d045e741f9f557.gifv" alt="Imagem" align="center">
 </p>
 
-## 🔥 Skills
+## Skills
 
 ### Programming Languages
 <p align="left">
