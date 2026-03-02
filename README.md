@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Helo guys, I'm Gabriel Navarro Silva! I´m Software Developer from Brazil.
+  Hello guys, I'm Gabriel Navarro Silva! I´m Software Developer from Brazil.
 
   -  I have a degree in Systems Analysis and Development and I am currently pursuing a second degree in Computer Science.
 
