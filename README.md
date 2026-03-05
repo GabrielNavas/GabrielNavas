@@ -53,7 +53,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img src="https://64.media.tumblr.com/a6f6ef23c6e3be72f81697a09baf94c8/0b50ae687fc6cd5a-3a/s1280x1920/f49bc32d8bc66e3e48a6a765c7d045e741f9f557.gifv" alt="Imagem" align="center">
+  <img src="https://wallpaperaccess.com/full/8351209.gif" alt="Imagem" align="center">
 </p>
 
 ## Skills
